@@ -1,0 +1,64 @@
+{
+    "groups":[
+        [
+            {
+                "id":"1",
+                "name":"Bolsas",
+                "img":"https://user-images.githubusercontent.com/45071050/64484551-45c29800-d1d9-11e9-9651-bccb31ff66f0.jpg",
+                "description":"De tela, de basura, reciclables y hasta bolsas para la caca de los perros. Las bolsas de plástico son de losers. Echa un vistazo a las alternativas."
+            },
+            {
+                "id":"2",
+                "name":"Envases",
+                "img":"https://user-images.githubusercontent.com/45071050/64484547-452a0180-d1d9-11e9-906d-5c0e53eb8cb7.jpg",
+                "description":"Cada vez que descubro una tienda de comida para llevar que usa envases biodegradables me llevo la alegría del mes."
+            },
+            {
+                "id":"3",
+                "name":"Pañales",
+                "img":"https://user-images.githubusercontent.com/45071050/64484549-45c29800-d1d9-11e9-8fb8-c5136c5eca76.jpg",
+                "description":"¿Sabías que un pañal tarde 300 años en descomponerse? Ahora multiplica por los que consume un bebé."
+            }
+        ],
+        [
+            {
+                "id":"4",
+                "name":"Productos de belleza",
+                "img":"https://user-images.githubusercontent.com/45071050/64484546-452a0180-d1d9-11e9-8e30-9bd0b44dd3a7.jpg",
+                "description":"Nos han colado que para limpiar bien hay que utilizar un millón de productos mientras más corrosivos mejor."
+            },
+            {
+                "id":"5",
+                "name":"Ambientador",
+                "img":"https://user-images.githubusercontent.com/45071050/64484550-45c29800-d1d9-11e9-861f-b1ba73a7f0b9.jpg",
+                "description":"Las palabras ambientador y natural suenan redundantes, ¿no? Si quieres que tu casa tenga un aroma agradable cuando llegas, mira esto."
+            },
+            {
+                "id":"6",
+                "name":"Cápsulas de café",
+                "img":"https://user-images.githubusercontent.com/45071050/64484548-452a0180-d1d9-11e9-9772-66abf165cfe7.jpg",
+                "description":"La vagancia del ser humano y un buen marketing pusieron de moda la Nespresso. EPor suerte, hay alternativas biodegradables."
+            }
+        ],
+        [
+            {
+                "id":"7",
+                "name":"Vasos y tazas",
+                "img":"https://user-images.githubusercontent.com/45071050/64484585-1fe9c300-d1da-11e9-8c99-2744d3a3ed0b.jpg",
+                "description":"Si en tu oficina siguen usando un vasito de plástico con cada café o cada agua, por favor, enséñales esta página."
+            },
+            {
+                "id":"8",
+                "name":"Crema solar",
+                "img":"https://user-images.githubusercontent.com/45071050/64484586-20825980-d1da-11e9-95a4-1031269e9d9c.jpg",
+                "description":"En muchos países ya es obligatorio usar este protector que no daña el medio ambiente. En el Caribe los peces empezaban a saber a nivea."
+            },
+            {
+                "id":"9",
+                "name":"Globos biodegradables",
+                "img":"https://user-images.githubusercontent.com/45071050/64484587-20825980-d1da-11e9-8626-0381c0765110.jpg",
+                "description":"Nos encantan las sueltas de globos para celebrar eventos. Lo que pasa que con globos de plástico la celebración no es completa."
+            }
+        ]
+    ]
+}
